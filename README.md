@@ -1,5 +1,7 @@
 # Personal Budget Tracker
 
+![image] (https://github.com/VincentTsai0601/Code_in_place-final_project/blob/main/stanford_code_in_place_cover.jfif)
+
 This is a Code in Place final project based on a Kaggle personal finance dataset.
 It is a console-based Python program that helps users track income and expenses.
 
